@@ -1,4 +1,4 @@
-# > Mini-estacao Meteorológica
+# Mini-estacao Meteorológica
 
 ## Bem vindo ao repositório.
 Nele armazeno sketches feitos em arduino para a realização de uma mini-estação meteorológica de **baixo custo**.
